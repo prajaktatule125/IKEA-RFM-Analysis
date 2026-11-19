@@ -114,8 +114,10 @@ E-commerce-Customer-Analytics/
 │
 ├── Dashboard_Screenshots/
 │   ├── Home.png
-│   ├── Business_Overview.png
-│   └── RFM_Analysis.png
+│   ├── Business_Overview_1.png
+|   ├── Business_Overview_2.png 
+│   ├── RFM_Analysis_1.png
+    └── RFM_Analysis_2.png
 │
 └── README.md
 ```
